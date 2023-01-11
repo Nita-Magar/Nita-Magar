@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nita-Magar
 - 👀 I’m interested in mobile application development, web application development and artificial intelligence 
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
