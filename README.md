@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nita-Magar.(Currently, I am working as Laravel developer.)
 - 👀 I’m interested in mobile application development, web application development and artificial intelligence 
-- 🌱 I’m currently learning Laravel and Flutter.
+- 🌱 I’m currently learning Laravel,Flutter and .NET.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
